@@ -22,3 +22,15 @@
 //     max = c;
 // }
 // alert(max);
+// let N = parseInt(prompt("Nhập số lượng giá trị trong dãy số (N):"));
+// let max = parseFloat(prompt("Nhập giá trị đầu tiên của dãy (a1):"));
+//
+// for (let i = 2; i <= N; i++) {
+//     let currentNumber = parseFloat(prompt("Nhập giá trị tiếp theo (a" + i + "):"));
+//
+//     if (currentNumber > max) {
+//         max = currentNumber;
+//     }
+// }
+//
+// console.log("Giá trị lớn nhất trong dãy là: " + max);
